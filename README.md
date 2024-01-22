@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waelzouaouii
-- 👀 I’m interested in IoT
+- 👀 I’m interested in IoT,Devops and electronics
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 
